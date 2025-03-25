@@ -2004,6 +2004,10 @@ section.driver-hire {
 .submit-btn:hover {
   background: #ffcc00;
 }
+.answer-faq {
+  font-family: 'Helvetica-regular';
+  font-size:20px;
+}
 
 /* responsive */
 @media screen and (max-width: 2500px) {}
@@ -2470,6 +2474,12 @@ section.driver-hire {
   .footer-main .footer-address {
     margin-bottom: 30px !important;
   }
+  .blog-header {
+    display: block;
+}
+.blog-header h2 {
+  font-size: 35px;
+}
 
   a.beng_btn {
 
@@ -2754,7 +2764,10 @@ section.driver-hire {
   .blog-title {
     font-size: 20px;
   }
-
+  h3.sub-heading {
+    line-height: 45px;
+    font-size: 35px;
+  }
   .media-text a,
   .media-text h5 {
     font-size: 14px;
@@ -2764,7 +2777,9 @@ section.driver-hire {
     /* padding: 10px 20px; */
     font-size: 12px;
   }
-
+  .answer-faq {
+    font-size: 16px;
+}
   .downlode_scan .travel_main {
     padding: 40px 10px;
   }
